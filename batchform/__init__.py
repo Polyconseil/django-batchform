@@ -4,4 +4,4 @@
 
 
 __author__ = "Raphaël Barrois <raphael.barrois+batchform@polytechnique.org>"
-__version__ = '0.3.0'
+__version__ = '0.3.0+poly.2023.12.20.git444a1378da'
